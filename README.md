@@ -43,4 +43,4 @@ Enter a URL → QR code will be saved as `qr_img.png`.
 
 ## 👨‍💻 Author
 
-**Hamza Khan**
+**Shade-art**
